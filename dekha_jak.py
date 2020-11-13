@@ -39,14 +39,3 @@ else:
 st.write("Courtesy: 1littlecoder Youtube Channel - [Sketch Code](https://github.com/amrrs/youtube-r-snippets/blob/master/Create_a_Pencil_Sketch_Portrait_with_Python_OpenCV.ipynb)")
 
 
-# In[10]:
-
-
-import streamlit 
-
-
-# In[11]:
-
-
-import streamlit
-
