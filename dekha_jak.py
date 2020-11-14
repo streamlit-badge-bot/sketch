@@ -36,6 +36,5 @@ else:
     st.write("**Output Pencil Sketch**")
     st.image(final_sketch, use_column_width=True)
 
-st.write("Courtesy: 1littlecoder Youtube Channel - [Sketch Code](https://github.com/amrrs/youtube-r-snippets/blob/master/Create_a_Pencil_Sketch_Portrait_with_Python_OpenCV.ipynb)")
 
 
