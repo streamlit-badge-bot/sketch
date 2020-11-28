@@ -1,1 +1,1 @@
-# sketch
+# sketch [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/pra10sun/sketch/main/dekha_jak.py)
